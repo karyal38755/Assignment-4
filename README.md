@@ -35,10 +35,6 @@ Two implementations are provided: Python and C++.
 
 ## Usage
 
-### Python Version
-1. Save the file as `schedule.py`.  
-2. Run the program with employee names as CLI arguments:
-
 ```bash
 # Python
 python3 employee_scheduling.py --employees Sam Trent 
